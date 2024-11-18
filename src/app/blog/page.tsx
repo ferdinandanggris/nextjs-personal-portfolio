@@ -8,7 +8,7 @@ export default function page() {
       <h2 className="h2 article-title">Blog</h2>
     </header>
 
-    <section className="blog-posts">
+    {/* <section className="blog-posts">
 
       <ul className="blog-posts-list">
 
@@ -182,7 +182,7 @@ export default function page() {
 
       </ul>
 
-    </section>
+    </section> */}
 
   </article>
   )

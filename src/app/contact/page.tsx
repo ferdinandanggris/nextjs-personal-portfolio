@@ -5,7 +5,7 @@ export default function page() {
     <header>
       <h2 className="h2 article-title">Contact</h2>
     </header>
-
+{/* 
     <section className="mapbox" data-mapbox>
       <figure>
         <iframe
@@ -29,13 +29,12 @@ export default function page() {
         <textarea name="message" className="form-input" placeholder="Your Message" required data-form-input></textarea>
 
         <button className="form-btn" type="submit" disabled data-form-btn>
-          {/* <ion-icon name="paper-plane"></ion-icon> */}
           <span>Send Message</span>
         </button>
 
       </form>
 
-    </section>
+    </section> */}
 
   </article>
   )

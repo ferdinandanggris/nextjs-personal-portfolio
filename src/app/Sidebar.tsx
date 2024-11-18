@@ -11,9 +11,9 @@ export default function Sidebar() {
       </figure>
 
       <div className="info-content">
-        <h1 className="name" title="Richard hanrick">Richard hanrick</h1>
+        <h1 className="name" title="Ferdinand Anggris">Ferdinand Anggris</h1>
 
-        <p className="title">Web developer</p>
+        <p className="title">Programmer</p>
       </div>
 
       <button className="info_more-btn" data-sidebar-btn>
@@ -39,7 +39,7 @@ export default function Sidebar() {
           <div className="contact-info">
             <p className="contact-title">Email</p>
 
-            <a href="mailto:richard@example.com" className="contact-link">richard@example.com</a>
+            <a href="mailto:ferdinandanggris@gmail.com" className="contact-link">ferdinandanggris@gmail.com</a>
           </div>
 
         </li>
@@ -51,9 +51,9 @@ export default function Sidebar() {
           </div>
 
           <div className="contact-info">
-            <p className="contact-title">Phone</p>
+            <p className="contact-title">Whatsapp</p>
 
-            <a href="tel:+12133522795" className="contact-link">+1 (213) 352-2795</a>
+            <a href="wa.me/6282131955087" className="contact-link">+6282131955087</a>
           </div>
 
         </li>
@@ -67,7 +67,7 @@ export default function Sidebar() {
           <div className="contact-info">
             <p className="contact-title">Birthday</p>
 
-            <time dateTime={"1982-06-23"}>June 23, 1982</time>
+            <time dateTime={"2002-02-23"}>February 2002</time>
           </div>
 
         </li>
@@ -81,7 +81,7 @@ export default function Sidebar() {
           <div className="contact-info">
             <p className="contact-title">Location</p>
 
-            <address>Sacramento, California, USA</address>
+            <address>Jawa Timur, Indonesia</address>
           </div>
 
         </li>
@@ -93,19 +93,12 @@ export default function Sidebar() {
       <ul className="social-list">
 
         <li className="social-item">
-          <a href="#" className="social-link">
+          <a href="https://www.facebook.com/ferdinandanggris" target='_blank' className="social-link">
             <IoLogoFacebook />
           </a>
         </li>
-
         <li className="social-item">
-          <a href="#" className="social-link">
-            <IoLogoTwitter />
-          </a>
-        </li>
-
-        <li className="social-item">
-          <a href="#" className="social-link">
+          <a href="https://www.instagram.com/ferdinandanggris_/" target='_blank' className="social-link">
             <IoLogoInstagram/>
           </a>
         </li>
